@@ -1,0 +1,239 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 820px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  text-decoration: underline !important;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 396px;
+  background-image: url("images/Hi-Side-Garage-2a.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 150px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 360px;
+  height: 120px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 246px;
+  background-image: url("images/Quaker-Feature.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 300px;
+  background-image: url("images/Bears-Paw-Feature.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-5 {
+  min-height: 300px;
+  background-image: url("images/Castle-Mountain-Garage-2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-6 {
+  min-height: 300px;
+  background-image: url("images/Hi-Side-in-snow.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.625rem;
+  font-style: italic;
+  margin: 10px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: normal;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 327px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 124px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 313px;
+    height: 104px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 203px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 247px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 563px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 250px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 95px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 240px;
+    height: 80px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 155px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 189px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 189px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 189px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1818px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 304px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 186px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 303px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 425px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 425px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 425px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1192px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 191px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 117px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 191px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 268px;
+  }
+}
