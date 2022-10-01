@@ -37068,7 +37068,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables custom-site-css*/<link rel="stylesheet" href="style.css?v=1.0">/*end-variables custom-site-css*/
+ /*begin-variables custom-site-css*/<link rel="stylesheet" href="css/custom.css?<?php=filemtime('css/custom.css')?>" type="text/css" media="screen" />/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
