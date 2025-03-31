@@ -105,7 +105,7 @@
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 210px;
+    min-height: 551px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -135,6 +135,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 4520px;
+  }
+
   .u-section-1 .u-layout-wrap-1 {
     width: 540px;
   }
@@ -161,6 +165,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 2886px;
+  }
+
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
   }
